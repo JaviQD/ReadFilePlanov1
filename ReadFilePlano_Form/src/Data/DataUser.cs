@@ -28,6 +28,7 @@ namespace ReadFilePlano_Form.src.Data
         /// <returns>la lista</returns>
         public List<DataModel> Consultar()
         {
+            //terminar esto y hallar el error
             List<DataModel> lista = new List<DataModel>();
 
             // Verificar si DataPlana está vacío
