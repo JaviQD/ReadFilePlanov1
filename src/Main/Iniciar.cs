@@ -9,6 +9,7 @@ namespace ReadFilePlano.src.Main
 {
     public class Iniciar
     {
+        //Metodo donde arranca el sistema
         public static void Main()
         {
             Metodos getfactura = new Metodos();

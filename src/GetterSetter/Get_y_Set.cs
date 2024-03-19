@@ -8,6 +8,7 @@ namespace ReadFilePlano.src.GetterSetter
 {
     public class Get_y_Set
     {
+        //Declarar Getter y Setter
         public string NumeroFactura { get; set; }
         public string MontoTotal { get; set; }
         public string Impuestos { get; set; }

@@ -13,7 +13,7 @@ namespace ReadFilePlano.src.Principal
         //Clase para crear cada metodo que devuelve una respuesta
 
         /// <summary>
-        /// Metodo que devuelve las facturas pagadas en el mes de enero
+        /// Metodo que devuelve las facturas pagadas en el mes de enero.
         /// </summary>
         public void FacturasPagadasEnero()
         {
