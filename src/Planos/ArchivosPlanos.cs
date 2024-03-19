@@ -8,7 +8,7 @@ namespace ReadFilePlano.src.Planos
 {
     public class ArchivosPlanos
     {
-        //Se crea un arreglo que contenga todos los archivos planos
+        //Se crea un arreglo que contenga todos los archivos planos dados
         string[] Facturas = new string[]
         {
             "FA001;10000;1900;11900;Enero;SI",
